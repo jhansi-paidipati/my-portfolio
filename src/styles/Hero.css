@@ -1,0 +1,16 @@
+/* Hero.css */
+.hero {
+    text-align: center;
+    background-color: #282c34;
+    color: white;
+    padding: 5rem 2rem;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+  }
+  
+  .hero p {
+    font-size: 1.5rem;
+  }
+  
